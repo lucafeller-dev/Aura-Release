@@ -10,11 +10,14 @@ I made Aura because... well, desktop icons look cluttery, and we like it clean. 
 I originally made this application for myself and my friends, but it could help others too, so I released it here for anyone who stumbles upon it.
 
 ---
+![Aura Launcher Preview](assets/preview.png)
+---
 
 ## 🚀 How to use
 - **Add a game**: Simply Drag & Drop the game's shortcut into the window.
 - **Move the window**: Drag it by the very top part of the window frame.
 - **Reorder cards**: Drag & Drop any card on top of another to move it.
+- **Resize & Adapt**: Aura is fully responsive. Resize it into a vertical sidebar, a horizontal bar, or a compact square—it adapts instantly. ([See vertical layout example](assets/vertical-layout.png))
 - **Context menu**: Right-click on any game card to open its menu.
 
 ## 🎮 Platform Support
