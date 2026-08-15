@@ -25,10 +25,7 @@ The app supports:
 - Files
 - Folders
 
-*Fully tested for Steam and Ubisoft games.*
-
 ## 🔮 Next steps & Roadmap
-- [ ] Icon support for Ubisoft games
 - [ ] Game folders support
 - [ ] Launching dedicated software for specific games (e.g., Virtual Desktop for VR, peripheral apps for simulators, etc.)
 - [ ] Built-in search bar
