@@ -39,3 +39,7 @@ The app supports:
 
 ## 📦 Download
 Get the latest version from the [Releases](https://github.com/lucafeller-dev/Aura-Release/releases) page!
+
+---
+If Aura makes your setup smoother and you want to buy me a coffee to support future updates, you can drop a tip here:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G8W2254GXV)
